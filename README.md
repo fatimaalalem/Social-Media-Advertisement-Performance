@@ -21,5 +21,4 @@ This project analyzes social media advertisement campaigns using Power BI.
 
 ## Tools Used
 - Power BI
-- SQL
 - Data Visualization
